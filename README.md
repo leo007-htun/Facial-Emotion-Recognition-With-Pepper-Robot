@@ -1,4 +1,2 @@
-
-
-https://github.com/leo007-htun/Facial-Emotion-Recognition-With-Pepper-Robot/assets/66962471/901fddc6-4324-4818-a184-498725b2b52a
+[![Video](https://img.youtube.com/vi/v=x-VCrFGGo5o/hqdefault.jpg)](https://www.youtube.com/watch?v=v=x-VCrFGGo5o)
 
