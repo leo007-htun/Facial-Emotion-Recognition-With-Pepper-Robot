@@ -1,4 +1,4 @@
-## Facial Emotion Recognition With Pepper Robot
+<h1 align="center">Facial Emotion Recognition With Pepper Robot</h1>
 <div align="center">
 
   <a href="https://www.youtube.com/watch?v=x-VCrFGGo5o">
